@@ -18,7 +18,7 @@ struct ContentView: View {
                            
                 Image(systemName: "book")
                     .font(.system(size: 90))
-                    .foregroundColor(Color.green)
+                    .foregroundColor(Color.red)
                                     
                                 }
                 }
